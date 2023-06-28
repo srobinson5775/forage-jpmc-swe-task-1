@@ -18,6 +18,10 @@ class ClientTest(unittest.TestCase):
 
 
   """ ------------ Add more unit tests ------------ """
+  def test_getRatio_calculateRatioOfStock(self):
+    quotes = [
+
+    ]
 
 
 
